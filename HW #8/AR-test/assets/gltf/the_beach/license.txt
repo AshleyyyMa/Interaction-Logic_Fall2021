@@ -1,0 +1,11 @@
+Model Information:
+* title:	The beach
+* source:	https://sketchfab.com/3d-models/the-beach-0fba4eee5d844649aedfeea95363c067
+* author:	Ambriel (https://sketchfab.com/Ambriel)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "The beach" (https://sketchfab.com/3d-models/the-beach-0fba4eee5d844649aedfeea95363c067) by Ambriel (https://sketchfab.com/Ambriel) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
